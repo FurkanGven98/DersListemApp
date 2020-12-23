@@ -1,7 +1,7 @@
 [
  {
   "isim" : "Algoritma Analizi",
-  "devre": "3.Sınıf Güz"
+  "devre": "3.Sınıf Güz",
   "Hafta 1" : "Giriş",		
   "Hafta 2" : "Asimtotik Analiz",
   "Hafta 3" : "Asimtotik Notasyonlar",
@@ -17,6 +17,7 @@
 },
  {
   "isim" : "Mikroişlemciler",
+  "devre": "3.Sınıf Güz",
   "Hafta 1" : "Hafta 1",		
   "Hafta 2" : "Hafta 2",
   "Hafta 3" : "Hafta 3",
@@ -31,6 +32,7 @@
 },
 {
   "isim" : "Programlama Dilleri",
+  "devre": "3.Sınıf Güz",
   "Hafta 1" : "Hafta 1",		
   "Hafta 2" : "Hafta 2",
   "Hafta 3" : "Hafta 3",
@@ -45,6 +47,7 @@
 },
 {
   "isim" : "Sinyaller ve Sistemler",
+ "devre": "3.Sınıf Güz",
   "Hafta 1" : "Hafta 1",		
   "Hafta 2" : "Hafta 2",
   "Hafta 3" : "Hafta 3",
@@ -59,6 +62,7 @@
 },
 {
   "isim" : "Sistem Programlama",
+  "devre": "3.Sınıf Güz",
   "Hafta 1" : "Hafta 1",		
   "Hafta 2" : "Hafta 2",
   "Hafta 3" : "Hafta 3",
@@ -73,6 +77,7 @@
 },
 {
   "isim" : "Veritabanı Yönetim Sistemleri",
+  "devre": "3.Sınıf Güz",
   "Hafta 1" : "Hafta 1",		
   "Hafta 2" : "Hafta 2",
   "Hafta 3" : "Hafta 3",
